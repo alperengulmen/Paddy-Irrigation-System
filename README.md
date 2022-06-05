@@ -7,6 +7,6 @@
 
 ### Blok Diyagramı 
 
-![photo1654446848](https://user-images.githubusercontent.com/101520587/172060801-88b7e914-8e14-4d68-9919-a32bdad1ae79.jpeg)
+![image](https://user-images.githubusercontent.com/101520587/172060845-59377dff-86e5-40ac-b656-add29bf726c5.png)
 
 ### LabWiev ve kullanılan kodlar rar dosyası  olarak UES sistemine yüklenmiştir.
